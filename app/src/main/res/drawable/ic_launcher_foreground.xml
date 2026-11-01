@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Barbershop Pole / Scissors / Razor icon silhouette centered in safe zone 66dp (21..87) -->
+    <!-- Shears blade 1 -->
+    <path
+        android:pathData="M38,36 L54,52 L68,38 C70,36 73,36 75,38 C77,40 77,43 75,45 L59,61 L64,66 C67,69 71,69 74,66 C77,63 77,58 74,55 L70,51 L73,48 L77,52 C82,57 82,64 77,69 C73,73 66,73 61,68 L54,61 L45,70 C40,75 33,75 29,71 C25,67 25,60 30,55 L39,46 L35,42 C33,40 33,37 35,35 C37,33 40,33 42,35 Z"
+        android:fillType="nonZero">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="28"
+                android:startY="28"
+                android:endX="80"
+                android:endY="80"
+                android:type="linear">
+                <item android:color="#F8E5A0" android:offset="0.0" />
+                <item android:color="#D49D34" android:offset="0.7" />
+                <item android:color="#B87D1E" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Straight Razor Accent -->
+    <path
+        android:pathData="M48,34 L66,34 C68,34 70,36 70,38 L70,40 C70,42 68,44 66,44 L48,44 Z"
+        android:fillColor="#FFE699" />
+    <path
+        android:pathData="M54,54 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#FFFFFF" />
+    <!-- Small star badge in center -->
+    <path
+        android:pathData="M54,26 L55.5,29.5 L59,30 L56.5,32.5 L57,36 L54,34 L51,36 L51.5,32.5 L49,30 L52.5,29.5 Z"
+        android:fillColor="#F6CB63" />
+</vector>

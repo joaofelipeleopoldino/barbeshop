@@ -1,0 +1,6 @@
+{
+  "name": "BarberPro",
+  "description": "Plataforma SaaS completa para barbearia com agendamento online, vitrine de serviços, loja de produtos, clube de assinaturas e painel de gestão para barbeiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
